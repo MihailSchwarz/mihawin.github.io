@@ -1,8 +1,8 @@
 ---
-title:"Filename"
-notetype: feed | unfeed
-date: 01-01-2021
+title : Main
+notetype : feed
+date : 15-04-2021
 ---
 
 # HI
-Рщц
+Как дела?
